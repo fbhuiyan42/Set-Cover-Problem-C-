@@ -2,10 +2,10 @@
 
 Goal:
 Get clear idea of,
--Exact Algorithm using Bitmask Dynamic Programming Technique.
--Problem formulation using Integer Programming.
--Approximation using Linear Programming.
--Deterministic Rounding Technique.
+- Exact Algorithm using Bitmask Dynamic Programming Technique.
+- Problem formulation using Integer Programming.
+- Approximation using Linear Programming.
+- Deterministic Rounding Technique.
 
 
 Input Format : 
